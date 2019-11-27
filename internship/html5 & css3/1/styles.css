@@ -1,0 +1,39 @@
+body{ margin:0;}
+
+.div-one{background-color:#445162FF;border: 0.1px solid #445162FF;;}
+
+.div-one-child{margin:40px;border:0.1px solid #445162FF; overflow: auto;}
+
+.div-two { color:white;}
+
+.div-two-child{margin:40px; overflow: auto;}
+
+.div-three{ background-color: #445162FF;}
+
+.prod-name{ color:white; font-size: 50px;}
+
+.list{list-style-type: none; display: inline-block;}
+
+.li-item { color:white;font-size: 20px; }
+
+.prod-about { color: #445162FF;font-size: 40px; }
+
+.prod-desc {color: #445162FF;display:inline-block;font-size: 20px;}
+
+.img1{ width:400px;float: right; height:auto;margin-top: -75px; }
+
+.img2{ width:400px;float: right; height:auto;margin-top: -75px; }
+
+.ul-contact{color:white;list-style-type: none;padding-right: 28%;}
+
+.form-group{display:inline-block;padding-left:22%;}
+
+.social{font-size: 38px;}
+
+.text-contact{padding-top:30px;font-size: 40px;}
+
+.li-social{font-size:25px;}
+
+input[type=text]{width:390px;box-sizing: border-box;}
+
+ul, li { margin: 0; padding: 0; }
